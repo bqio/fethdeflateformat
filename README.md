@@ -9,4 +9,7 @@ For I to [chunk count]
 
 * 4:chunk size with meta
 
-0x80 ofs start deflate data;
+align to 0x80!
+
+4:chunk size
+[chunk size]:deflate data;
