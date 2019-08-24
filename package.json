@@ -1,0 +1,15 @@
+{
+  "name": "fethdeflate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js file.zlib"
+  },
+  "keywords": [],
+  "author": "bqio aka ranford",
+  "license": "ISC",
+  "dependencies": {
+    "pako": "^1.0.10"
+  }
+}
