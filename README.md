@@ -11,6 +11,8 @@ For I to [chunk count]
 
 align to 0x80!
 
-4:chunk size
+For I to [chunk count]
 
-[chunk size]:deflate data;
+* 4:chunk size
+
+* [chunk size]:deflate data;
