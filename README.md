@@ -9,9 +9,9 @@ For I to [chunk count]
 
 * 4:chunk size with meta
 
-align to 0x80!
-
 For I to [chunk count]
+
+* align to 0x80
 
 * 4:chunk size
 
