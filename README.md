@@ -1,4 +1,4 @@
-# FETH Zlib Format
+# FETH Deflate Format
 4:uncompressed chunk size;
 
 4:chunk count;
